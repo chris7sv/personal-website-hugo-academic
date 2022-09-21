@@ -37,4 +37,7 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the 42nd Annual Conference of the Cognitive Science
   Society 2020*'
+links:
+- name: URL
+  url: https://www.cognitivesciencesociety.org/cogsci20/papers/0559/0559.pdf
 ---
