@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chris Tsvetkov
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Bristol 
+    url: https://www.bristol.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in various processes of visual cognition, such as perceptual grouping, contour integration, shape recognition. More generally, I'm interested in how information is encoded and processed in human vision. I use deep learning to model these processes.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Deep neural networks
+  - Visual perception
+  - Cognitive modelling
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD candidate in Psychology
+      institution: University of Bristol, United Kingdom
+      year: 2019 -- current
+    - course: MSc in Cognitive Science
+      institution: New Bulgarian University, Sofia, Bulgaria
+      year: 2018
+    - course: BA in Art and Technology
+      institution: Aalborg University
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,13 +44,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ctsvetkov1
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/chris7sv
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -68,10 +67,15 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# resumé
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student in the Generalisation in Mind and Machine lab in University of Bristol. My work deals with evaluating and enhancing deep neural networks as models of cognition.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Beginner classical guitarist, hope to one day be good enough to post my recordings here.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Proud dad of 3-year-old.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+
