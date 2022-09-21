@@ -77,5 +77,5 @@ Beginner classical guitarist, hope to one day be good enough to post my recordin
 
 Proud dad of 3-year-old.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
 
