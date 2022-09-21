@@ -47,7 +47,7 @@ social:
     link: https://twitter.com/ctsvetkov1
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=OyWaZr8bpuoC&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/chris7sv
