@@ -54,7 +54,7 @@ abstract: Convolutional neural networks (CNNs) are often described as promising 
 publication: '*bioRxiv : the preprint server for biology*'
 doi: 10.1101/2022.03.31.486580
 
-link:
+links:
 - name: URL
   url: https://www.biorxiv.org/content/early/2022/12/26/2022.03.31.486580
 ---
