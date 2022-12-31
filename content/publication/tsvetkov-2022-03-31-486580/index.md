@@ -12,7 +12,7 @@ authors:
 - Jeffrey S. Bowers
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2022-04-01'
 lastmod: 2022-12-31T17:51:08Z
 featured: false
 draft: false
@@ -53,7 +53,7 @@ abstract: Convolutional neural networks (CNNs) are often described as promising 
   Interest StatementThe authors have declared no competing interest.
 publication: '*bioRxiv : the preprint server for biology*'
 doi: 10.1101/2022.03.31.486580
-
+# url_pdf: https://www.biorxiv.org/content/early/2022/12/26/2022.03.31.486580.full.pdf
 links:
 - name: URL
   url: https://www.biorxiv.org/content/early/2022/12/26/2022.03.31.486580
