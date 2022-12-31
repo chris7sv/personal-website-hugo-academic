@@ -22,3 +22,5 @@ tags:
 
 ---
 
+
+I have been involved with the cognitive sciences for over 7 years. After my BA, I felt I needed a change in direction. My course had given me a taste of the fundamentals of programming and academic research, and  but I felt I had yet to find th 

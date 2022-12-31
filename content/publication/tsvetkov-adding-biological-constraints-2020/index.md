@@ -1,17 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: How do deep neural networks represent faces?
+title: Adding Biological Constraints to Deep Neural Networks Reduces Their Capacity
+  to Learn Unstructured Data
 subtitle: ''
 summary: ''
 authors:
 - Christian Tsvetkov
+- Gaurav Malhotra
+- Benjamin D Evans
+- Jeffrey S Bowers
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2022-09-21T10:31:45+01:00
+date: '2020-01-01'
+lastmod: 2022-12-31T17:43:58Z
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,9 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-21T09:31:45.067497Z'
+publishDate: '2022-12-31T17:43:57.952351Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
-publication: ''
+publication: '*Proceedings of the 42nd Annual Conference of the Cognitive Science
+  Society 2020*'
+links:
+- name: URL
+  url: https://www.cognitivesciencesociety.org/cogsci20/papers/0559/0559.pdf
 ---

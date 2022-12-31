@@ -1,25 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Deep Problems with Neural Network Models of Human Vision
+title: How Do Deep Neural Networks Represent Faces?
 subtitle: ''
 summary: ''
 authors:
-- Jeffrey S Bowers
-- Gaurav Malhotra
-- Marin Dujmović
-- Milton L Montero
 - Christian Tsvetkov
-- Valerio Biscione
-- Guillermo Puebla
-- Federico G Adolfi
-- John Hummel
-- Rachel F Heaton
-- et al.
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-09-21T10:31:45+01:00
+date: '2018-01-01'
+lastmod: 2022-12-31T17:43:58Z
 featured: false
 draft: false
 
@@ -37,13 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-21T09:31:44.794317Z'
+publishDate: '2022-12-31T17:43:58.252947Z'
 publication_types:
-- '0'
+- '7'
 abstract: ''
-publication: '*PsyArXiv*'
-doi: 10.31234/osf.io/5zf4s
-links:
-- name: URL
-  url: psyarxiv.com/5zf4s
+publication: ''
 ---
