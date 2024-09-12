@@ -10,10 +10,15 @@ authors:
 - Gaurav Malhotra
 - Benjamin D. Evans
 - Jeffrey S. Bowers
-tags: []
+tags:
+- Biological constraints
+- Bottleneck
+- Capacity
+- Deep Neural Networks
+- Internal noise
 categories: []
-date: '2022-04-01'
-lastmod: 2022-12-31T17:51:08Z
+date: '2023-02-01'
+lastmod: 2023-02-07T14:21:53Z
 featured: false
 draft: false
 
@@ -31,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-31T17:51:07.921125Z'
+publishDate: '2023-02-07T14:20:27.804429Z'
 publication_types:
 - '2'
 abstract: Convolutional neural networks (CNNs) are often described as promising models
@@ -49,12 +54,7 @@ abstract: Convolutional neural networks (CNNs) are often described as promising 
   show improved generalisation to out-of-distribution stimuli, however little benefit
   was observed. Our results suggest that constraining networks with biologically motivated
   mechanisms paves the way for closer correspondence between network and human performance,
-  but the few manipulations we have tested are only a small step towards that goal.Competing
-  Interest StatementThe authors have declared no competing interest.
-publication: '*bioRxiv : the preprint server for biology; Neural Networks (in press)*'
-doi: 10.1101/2022.03.31.486580
-# url_pdf: https://www.biorxiv.org/content/early/2022/12/26/2022.03.31.486580.full.pdf
-links:
-- name: URL
-  url: https://www.biorxiv.org/content/early/2022/12/26/2022.03.31.486580
+  but the few manipulations we have tested are only a small step towards that goal.
+publication: '*Neural Networks*'
+doi: 10.1016/j.neunet.2023.01.011
 ---
